@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet } from 'react-native';
+
 import Home from './src/Screens/Home';
 
 export default function App() {
